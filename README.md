@@ -5,7 +5,7 @@ Google Brain<br>
 
 #### Project
 
-The general goal of this project is to give to robots the ability to learning to imitate humans without any supervision.
+The general goal of this project is to give to robots the ability to learning to imitate humans without any supervision.<br>
 We present the following papers as part of this larger goal.
 
 ### [1. Time-Contrastive Networks ](https://sermanet.github.io/tcn/)
