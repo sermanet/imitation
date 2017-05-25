@@ -3,6 +3,11 @@ Pierre Sermanet, Corey Lynch †, Kelvin Xu †, Jasmine Hsu, Sergey Levine<br>
 Google Brain<br>
 († Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
+#### Project
+
+The general goal of this project is to give to robots the ability to learning to imitate humans without any supervision.
+We present the following papers as part of this larger goal.
+
 ### [ Time-Contrastive Networks ](https://sermanet.github.io/tcn/)
 
 <img src='docs/figs/pose_squat.mov.gif' width='540'>
