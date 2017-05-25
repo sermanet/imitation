@@ -5,9 +5,7 @@ Google Brain<br>
 
 ### [ Time-Contrastive Networks ](https://sermanet.github.io/tcn/)
 
-<img src='docs/pouring_016.png'>
-<img src='docs/human_08.png'>
-<img src='docs/bluedoor_00.png'>
+<img src='docs/figs/pose_squat.mov.gif'>
 
 ### [ Unsupervised Perceptual Rewards ](https://sermanet.github.io/rewards/)
 
