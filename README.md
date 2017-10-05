@@ -5,7 +5,7 @@ Pierre Sermanet<sup>1</sup>\*, Corey Lynch<sup>1</sup>\*†, Yevgen Chebotar<sup
 #### Project
 
 The general goal of this project is to give to robots the ability to learn to imitate humans from observation and without labels.<br>
-We present the following papers as steps towards of that goal.
+We present the following papers as steps toward that goal.
 
 ### [1. Time-Contrastive Networks ](https://sermanet.github.io/tcn/)
 
