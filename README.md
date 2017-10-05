@@ -15,6 +15,6 @@ We present the following papers as steps towards of that goal.
 
 <img src='docs/figs/observation.gif' height='270'>  <img src='docs/figs/imitation.gif' height='270'>
 
-### [3. Learning to imitate ](https://sermanet.github.io/imitate/)
+### [3. TCN update: Learning to imitate ](https://sermanet.github.io/imitate/)
 
 <img src='docs/figs/kuka_pouring.mov.gif' height='270'>
