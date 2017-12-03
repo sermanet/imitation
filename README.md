@@ -1,4 +1,4 @@
-Pierre Sermanet<sup>1</sup>\*, Corey Lynch<sup>1</sup>\*†, Yevgen Chebotar<sup>2</sup>\*, Kelvin Xu<sup>1</sup>†, Jasmine Hsu<sup>1</sup>, Eric Jang<sup>1</sup>, Stefan Schaal<sup>2</sup>, Sergey Levine<sup>1</sup><br>
+[Pierre Sermanet](https://sermanet.github.io/home/)<sup>1</sup>\*, Corey Lynch<sup>1</sup>\*†, Yevgen Chebotar<sup>2</sup>\*, Kelvin Xu<sup>1</sup>†, Jasmine Hsu<sup>1</sup>, Eric Jang<sup>1</sup>, Stefan Schaal<sup>2</sup>, Sergey Levine<sup>1</sup><br>
 <sup>1</sup> Google Brain, <sup>2</sup> University of Southern California<br>
 (* equal contribution, † Google Brain Residency program [g.co/brainresidency](https://research.google.com/teams/brain/residency/))
 
